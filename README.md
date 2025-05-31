@@ -1,6 +1,6 @@
 # Ping Eliminator
 
-A powerful network monitoring tool that helps you track and analyze your internet connection stability in real-time. Built with Python, this tool provides a beautiful CLI interface with detailed statistics and keyboard shortcuts for easy control.
+A powerful network monitoring tool that helps your internet connection stability in real-time. Built with Python
 
 ![Ping Eliminator](https://img.shields.io/badge/Ping-Eliminator-blue)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-green)
