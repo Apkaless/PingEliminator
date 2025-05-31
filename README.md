@@ -3,8 +3,6 @@
 A powerful network monitoring tool that helps your internet connection stability in real-time. Built with Python
 
 ![Ping Eliminator](https://img.shields.io/badge/Ping-Eliminator-blue)
-![Python](https://img.shields.io/badge/Python-3.6%2B-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Features
 - 🖥️ Real-time network connection monitoring
